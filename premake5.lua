@@ -12,7 +12,7 @@ project "FreeType"
    }
 
    includedirs {
-      "/include",
+      "include",
    }
 
    

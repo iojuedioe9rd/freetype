@@ -5,3 +5,6 @@ src/dlg/dlg.c
 subprojects/*
 !subprojects/*.wrap
 /tests/data/*
+/FreeType.vcxproj
+/FreeType.vcxproj.filters
+/FreeType.vcxproj.user
